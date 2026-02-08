@@ -2,11 +2,9 @@
 
 Примеры применения SOLID принципов 
 
-## Принципы:
+## Содержание:
 
-### 1. SRP - Single Responsibility Principle
-### 2. OCP - Open-Closed Principle  
-
-### 3. ISP - Interface Segregation Principle
-
-### 4. DIP - Dependency Inversion Principle
+### 1. Task1 - Принцип SRP (Single Responsibility Principle)
+### 2. Task2 - Принцип OCP (Open-Closed Principle)
+### 3. Task3 - ISP (Interface Segregation Principle)
+### 4. Task4 - DIP (Dependency Inversion Principle)

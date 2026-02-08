@@ -1,5 +1,4 @@
 # Примеры применения SOLID принципов 
-
 ## Содержание:
 
 ### 1. Task1 - Принцип SRP (Single Responsibility Principle)
